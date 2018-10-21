@@ -6,6 +6,7 @@
     添加环境变量vim ~/.bashrc或vim /etc/profile
     export JULIA_HOME=/usr/local/julia
     export PATH=$JULIA_HOME/bin:$PATH
+    source ~/.bashrc
 # 运行julia
     $ julia 
                    _
